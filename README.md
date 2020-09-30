@@ -1,1 +1,1 @@
-# Space-Wars-Game
+Awesome Space-Wars-Game desigined in Python.
